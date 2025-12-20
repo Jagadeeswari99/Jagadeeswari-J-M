@@ -63,7 +63,7 @@ Conference paper: "Advanced Computational Intelligence & Disruptive Technologies
 
 ## 📊 GitHub Stats
 
-![Jagadeeswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=[Jagadeeswari99]&show_icons=true&theme=radical)
+![Jagadeeswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=[(https://github.com/Jagadeeswari99)]&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 
