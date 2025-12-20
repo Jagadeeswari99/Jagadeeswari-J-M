@@ -14,6 +14,7 @@ I'm passionate about leveraging data science and artificial intelligence to solv
 - 🌱 Learning **Advanced Python, Neural Networks, Deep Learning, and C++**
 - 👯 Looking to collaborate on **open source AI/ML projects**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, and Data Science**
+-  Let's get connect **jaga11714@gmail.com** **https://www.linkedin.com/in/jagadeeswari-j-m-a55327391**
 - ⚡ Fun fact: I believe the best solutions come from combining human intuition with machine intelligence!
 
 ## 🛠️ Tech Stack
