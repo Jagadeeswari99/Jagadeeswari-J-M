@@ -73,7 +73,7 @@ Conference paper: "Advanced Computational Intelligence & Disruptive Technologies
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jagadeeswari-j-m-a55327391/))
 [![Email](jaga11714@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](your-portfolio-url)
 
