@@ -14,7 +14,6 @@ I'm passionate about leveraging data science and artificial intelligence to solv
 - 🌱 Learning **Advanced Python, Neural Networks, Deep Learning, and C++**
 - 👯 Looking to collaborate on **open source AI/ML projects**
 - 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, and Data Science**
-- 📫 How to reach me: **[Your Email]** | **[LinkedIn Profile]**
 - ⚡ Fun fact: I believe the best solutions come from combining human intuition with machine intelligence!
 
 ## 🛠️ Tech Stack
@@ -60,10 +59,6 @@ Random Forest-based hybrid recommendation engine with comprehensive preprocessin
 ### 🔒 [IoT Smart Security System](link-to-repo)
 Conference paper: "Advanced Computational Intelligence & Disruptive Technologies"
 - **Recognition:** Presented at PSG College of Art & Science, Coimbatore (March 2024)
-
-## 📊 GitHub Stats
-
-![Jagadeeswari's GitHub stats](https://github-readme-stats.vercel.app/api?username=[(https://github.com/Jagadeeswari99)]&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
 
