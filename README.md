@@ -42,12 +42,12 @@ Google
 
 ## 🚀 Featured Projects
 
-### 🏎️ [DriftAI: Drift Angle Prediction Dashboard]((https://github.com/Jagadeeswari99/Hybrid-Intelligence-for-Autonomous-Vehicles))
+### 🏎️ [DriftAI: Drift Angle Prediction Dashboard]([(link-to-repo)](https://github.com/Jagadeeswari99/-DriftAI-Building-an-F1-Drift-Prediction-System-with-Machine-Learning)
 Predictive ML model for motorsport vehicle drift angle forecasting with real-time Streamlit dashboard
 - **Tech:** Python, Scikit-Learn, Streamlit, Pandas
 - **Impact:** Real-time predictive analytics for motorsport optimization
 
-### 🚗 [Hybrid Intelligence for Autonomous Vehicles][(link-to-repo)](https://github.com/Jagadeeswari99/-DriftAI-Building-an-F1-Drift-Prediction-System-with-Machine-Learning)
+### 🚗 [Hybrid Intelligence for Autonomous Vehicles][(link-to-repo)](https://github.com/Jagadeeswari99/Hybrid-Intelligence-for-Autonomous-Vehicles))
 AI-Human decision system combining YOLOv8 object detection, LSTM trajectory prediction, and reinforcement learning
 - **Tech:** YOLOv8, LSTM, PPO Reinforcement Learning, Multi-Armed Bandit, Streamlit
 - **Achievement:** Improved decision accuracy and system reliability through hybrid intelligence
