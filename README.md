@@ -1,80 +1,35 @@
-# Jagadeeswari-J-M
-About me
-# Hi there, I'm Jagadeeswari! 👋
+<h1 align="center">Hi, I'm Jagadeeswari 👋</h1>
+<h3 align="center">Data Science Researcher | Motorsport Analytics | ML & IoT Systems</h3>
 
-🎓 **MSc Data Science Student** | 🚀 **Aspiring Data Scientist** | 🧠 **AI/ML Enthusiast**
-
-> *"Turning data into insights, problems into solutions, and curiosity into innovation"*
-
-## 🌟 About Me
-
-I'm passionate about leveraging data science and artificial intelligence to solve real-world problems. Currently pursuing my Master's in Data Science, I'm dedicated to becoming a great data scientist and problem solver who can make meaningful impact through technology.
-
-- 🔭 Currently working on **Autonomous Vehicle Intelligence Systems**
-- 🌱 Learning **Advanced Python, Neural Networks, Deep Learning, and C++**
-- 👯 Looking to collaborate on **open source AI/ML projects**
-- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, and Data Science**
--  Let's get connect **jaga11714@gmail.com** **https://www.linkedin.com/in/jagadeeswari-j-m-a55327391**
-- ⚡ Fun fact: I believe the best solutions come from combining human intuition with machine intelligence!
-
-## 🛠️ Tech Stack
-
-**Languages:**
-Python 
-Java
-C++
-C
-CSS
-HTML
-
-**Data Science & ML:**
-Pandas
-Numpy
-TensorFlow
-PyTorch
-Scikit-Learn
-
-**Tools & Frameworks:**
-Streamlit 
-Jupter
-githug
-Google 
-
-## 🚀 Featured Projects
-
-### 🏎️ [DriftAI: Drift Angle Prediction Dashboard]([(link-to-repo)](https://github.com/Jagadeeswari99/-DriftAI-Building-an-F1-Drift-Prediction-System-with-Machine-Learning)
-Predictive ML model for motorsport vehicle drift angle forecasting with real-time Streamlit dashboard
-- **Tech:** Python, Scikit-Learn, Streamlit, Pandas
-- **Impact:** Real-time predictive analytics for motorsport optimization
-
-### 🚗 [Hybrid Intelligence for Autonomous Vehicles][(link-to-repo)](https://github.com/Jagadeeswari99/Hybrid-Intelligence-for-Autonomous-Vehicles))
-AI-Human decision system combining YOLOv8 object detection, LSTM trajectory prediction, and reinforcement learning
-- **Tech:** YOLOv8, LSTM, PPO Reinforcement Learning, Multi-Armed Bandit, Streamlit
-- **Achievement:** Improved decision accuracy and system reliability through hybrid intelligence
-
-### 🍽️ [Smart Restaurant Recommendation System][(link-to-repo)](https://github.com/Jagadeeswari99/Restaurant-Recommedation-System)
-Random Forest-based hybrid recommendation engine with comprehensive preprocessing and feature engineering
-- **Tech:** Random Forest, Python, Data Preprocessing
-- **Scale:** Generated 16,720+ predictions for customer-location pairs
-
-### 🔒 [IoT Smart Security System](link-to-repo)
-Conference paper: "Advanced Computational Intelligence & Disruptive Technologies"
-- **Recognition:** Presented at PSG College of Art & Science, Coimbatore (March 2024)
-
-## 🏆 Achievements
-
-- 📄 **Published Research:** "Harnessing Hybrid Intelligence for Sustainable Mobility in Autonomous Vehicles" - International Journal of Multidisciplinary Educational Research (IJMER)
-- 🎤 **Conference Speaker:** Advanced Computational Intelligence & Disruptive Technologies
-- 🎯 **Focus Areas:** Computer Vision, Reinforcement Learning, Predictive Analytics, IoT Security
-
-## 🌐 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jagadeeswari-j-m-a55327391/))
-[![Email](jaga11714@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white)](your-portfolio-url)
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:YOUR_EMAIL">Email</a> •
+  Thiruvalluvar University, Vellore
+</p>
 
 ---
 
-💡 **Open to collaborations on AI/ML projects, research opportunities, and innovative problem-solving challenges!**
+🔬 **Research Focus:** Physics-Informed Neural Networks (PINNs) for motorsport optimization  
+🏎️ **Passion:** Applying ML & AI to Formula Racing — lap time prediction, tire degradation, fuel strategy  
+🎓 **Education:** B.Sc. Data Science, Thiruvalluvar University | Big Data Intern @ IIT Allahabad  
+🏆 **Award:** Best Paper – Physics-Informed Tire Degradation Modeling (R²=0.96)
 
-Data is the new oil, but insights are the refined fuel that powers innovation
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [DriftAI](https://github.com/Jagadeeswari99/Drift_AI) | Drift angle prediction using ML | Python, Scikit-Learn |
+| [Hybrid AV System](https://github.com/Jagadeeswari99/Hybrid-Intelligence-for-Autonomous-Vehicles) | Autonomous vehicle perception | YOLOv8, LSTM |
+| [Resume Relevance Checker](https://github.com/Jagadeeswari99/Automated-Resume-Relevance-Check-System) | Automated JD-resume matching | Python, NLP |
+
+---
+
+## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat&logo=raspberrypi&logoColor=white)
