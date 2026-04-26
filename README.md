@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Researcher | Motorsport Analytics | ML & IoT Systems</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn<www.linkedin.com/in/jagadeeswari-j-m-a55327391> •
   <a href="mailto:YOUR_EMAIL">Email</a> •
   Thiruvalluvar University, Vellore
 </p>
