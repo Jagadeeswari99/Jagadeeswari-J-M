@@ -18,7 +18,7 @@
 
 🔬 **Research Focus:** Physics-Informed Neural Networks (PINNs) for motorsport optimization  
 🏎️ **Passion:** Applying ML & AI to Formula Racing — lap time prediction, tire degradation, fuel strategy  
-🎓 **Education:** B.Sc. Data Science, Thiruvalluvar University, Vellore | Big Data Intern @ IIT Allahabad  
+🎓 **Education:** B.Sc. Data Science, The American College, Madurai| M.Sc. Data Science, Annamalai University, Cuddalore | Big Data Intern @ IIT Allahabad  
 🏆 **Award:** Best Paper – Physics-Informed Tire Degradation Modeling (R²=0.96)
 
 ---
